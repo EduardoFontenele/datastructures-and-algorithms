@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/programa.dir/src/main.c.o CMakeFiles/programa.dir/src/linkedlist.c.o -o programa 

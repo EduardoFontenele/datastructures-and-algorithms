@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/tests.dir/tests/test_runner.c.o CMakeFiles/tests.dir/tests/test_linkedlist.c.o CMakeFiles/tests.dir/tests/unity/unity.c.o CMakeFiles/tests.dir/src/linkedlist.c.o -o tests 

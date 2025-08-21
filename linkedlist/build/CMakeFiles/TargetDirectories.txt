@@ -1,0 +1,4 @@
+/home/idd_mfontenele/studies/dsa/linkedlist/build/CMakeFiles/programa.dir
+/home/idd_mfontenele/studies/dsa/linkedlist/build/CMakeFiles/tests.dir
+/home/idd_mfontenele/studies/dsa/linkedlist/build/CMakeFiles/edit_cache.dir
+/home/idd_mfontenele/studies/dsa/linkedlist/build/CMakeFiles/rebuild_cache.dir
