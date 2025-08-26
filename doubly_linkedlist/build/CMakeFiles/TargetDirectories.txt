@@ -1,0 +1,3 @@
+/home/idd_mfontenele/studies/dsa/doubly_linkedlist/build/CMakeFiles/main.dir
+/home/idd_mfontenele/studies/dsa/doubly_linkedlist/build/CMakeFiles/edit_cache.dir
+/home/idd_mfontenele/studies/dsa/doubly_linkedlist/build/CMakeFiles/rebuild_cache.dir
