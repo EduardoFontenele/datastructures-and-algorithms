@@ -1,1 +1,1 @@
-/usr/bin/cc CMakeFiles/main.dir/src/main.c.o -o main 
+/usr/bin/cc CMakeFiles/main.dir/src/main.c.o CMakeFiles/main.dir/src/doublylinkedlist.c.o -o main 

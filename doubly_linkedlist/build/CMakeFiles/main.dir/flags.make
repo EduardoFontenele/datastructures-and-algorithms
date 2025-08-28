@@ -4,7 +4,7 @@
 # compile C with /usr/bin/cc
 C_DEFINES = 
 
-C_INCLUDES = 
+C_INCLUDES = -I/home/idd_mfontenele/studies/dsa/doubly_linkedlist/include
 
 C_FLAGS = 
 

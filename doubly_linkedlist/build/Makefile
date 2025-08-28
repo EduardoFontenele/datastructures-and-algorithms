@@ -129,6 +129,30 @@ main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
+src/doublylinkedlist.o: src/doublylinkedlist.c.o
+.PHONY : src/doublylinkedlist.o
+
+# target to build an object file
+src/doublylinkedlist.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/doublylinkedlist.c.o
+.PHONY : src/doublylinkedlist.c.o
+
+src/doublylinkedlist.i: src/doublylinkedlist.c.i
+.PHONY : src/doublylinkedlist.i
+
+# target to preprocess a source file
+src/doublylinkedlist.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/doublylinkedlist.c.i
+.PHONY : src/doublylinkedlist.c.i
+
+src/doublylinkedlist.s: src/doublylinkedlist.c.s
+.PHONY : src/doublylinkedlist.s
+
+# target to generate assembly for a file
+src/doublylinkedlist.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/doublylinkedlist.c.s
+.PHONY : src/doublylinkedlist.c.s
+
 src/main.o: src/main.c.o
 .PHONY : src/main.o
 
@@ -162,6 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... main"
+	@echo "... src/doublylinkedlist.o"
+	@echo "... src/doublylinkedlist.i"
+	@echo "... src/doublylinkedlist.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

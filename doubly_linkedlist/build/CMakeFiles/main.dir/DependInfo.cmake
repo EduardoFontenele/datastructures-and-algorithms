@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/idd_mfontenele/studies/dsa/doubly_linkedlist/src/doublylinkedlist.c" "CMakeFiles/main.dir/src/doublylinkedlist.c.o" "gcc" "CMakeFiles/main.dir/src/doublylinkedlist.c.o.d"
   "/home/idd_mfontenele/studies/dsa/doubly_linkedlist/src/main.c" "CMakeFiles/main.dir/src/main.c.o" "gcc" "CMakeFiles/main.dir/src/main.c.o.d"
   )
 

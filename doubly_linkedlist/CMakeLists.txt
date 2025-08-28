@@ -3,4 +3,7 @@ project(DoublyLinkedList LANGUAGES C)
 
 add_executable(main
     src/main.c
+    src/doublylinkedlist.c
 )
+
+target_include_directories(main PRIVATE include)
