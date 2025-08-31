@@ -1,13 +1,13 @@
 package com.binarysearchtree;
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+import com.binarysearchtree.structures.BinarySearchTree;
+
+import java.util.Comparator;
+
+public class App {
+    public static void main(String[] args) {
+        var stringComparator = "Omega".compareTo("Alfa");
+        System.out.println(stringComparator);
+        var students = new BinarySearchTree<String>(Comparator.naturalOrder());
     }
 }
